@@ -1,6 +1,3 @@
-//oct 5
-//project ng trio///
-
 //#include <iostream>
 //using namespace std;
 //
@@ -215,6 +212,7 @@ int main() {
 	if (again != 'C' && again != 'c') {
 		cout << "Thank you for using our calculator!" << endl;
 	}
+
 
 
 }
